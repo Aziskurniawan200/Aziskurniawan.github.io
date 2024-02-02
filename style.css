@@ -11,3 +11,13 @@ section {
   padding-top: 5rem;
 }
 /* ini biar saat di klik navbarnya gak keepotong maka di tambahin padding top */
+
+.gallery-img {
+  width: 100%;
+  /* buat hilangin jarak saat responsive hp */
+}
+
+#gallery .row > * {
+  padding: 0;
+}
+/* buat hilangin jarak antar foto */
